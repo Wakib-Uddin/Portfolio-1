@@ -357,7 +357,7 @@ form .send-btn {
     color: var(--bg-color);
     border: 2px solid var(--main-color);
     border-radius: 8px;
-    font-size: 15px;
+    font-size: 13px;
     font-weight: 600;
     transition: all .50s ease;
     width: 30%;
