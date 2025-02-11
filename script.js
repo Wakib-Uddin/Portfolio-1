@@ -16,8 +16,3 @@ window.onscroll = () => {
     navlist.classList.remove('active');
 }
 
-
-// window.onscroll = () =>{
-//     menu.remove.toggle('bx-x');
-//     navlist.remove.toggle('active');
-// }
